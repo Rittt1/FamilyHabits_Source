@@ -23,5 +23,4 @@ Kotlin, Jetpack Compose, SQLiteOpenHelper, Android SDK.
 Build → Build Bundle(s) / APK(s) → Build APK(s).
 APK появится в `app/build/outputs/apk/debug/app-debug.apk`.
 
-## Автор
-Укажите своё имя перед сдачей.
+
